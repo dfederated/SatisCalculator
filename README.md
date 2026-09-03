@@ -30,4 +30,4 @@ Displays a list of saved tables in the selected database.
 Once selected, the table will be deleted.
 
 Bugs:
-Some recipes aren't working 100%. Seems some of the 
+Some recipes aren't working 100%.
