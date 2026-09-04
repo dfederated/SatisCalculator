@@ -30,4 +30,14 @@ Displays a list of saved tables in the selected database.
 Once selected, the table will be deleted.
 
 Bugs:
-Some recipes aren't working 100%.
+Some recipes aren't working 100%. They will calculate the necessary 
+ingredients properly, but will not save raw ingredients if the product
+only has raw ingredients.
+
+Currently, the particle accelerator and quantum encoder have static wattage.
+
+Future Features:(These will be worked on when I have time.)
+-Ability to change oc settings for machines. 
+-Add proper wattage settings for particle accelerator and quantum encoder.
+-Add a scroll bar for the view screen.
+-Add a dark theme. 
